@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.csv": "csv"
+  },
+  "csv-edit.readOption_delimiter": ",",
+  "csv-edit.readOption_hasHeader": true,
+  "csv-edit.writeOption_delimiter": ",",
+  "csv-edit.writeOption_hasHeader": true,
+  "csv-edit.darkThemeTextColor": "#E6EDF3",
+  "csv-edit.lightThemeTextColor": "#1F2328"
+}

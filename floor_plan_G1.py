@@ -305,6 +305,37 @@ def draw_floor_plan():
             zorder=11, clip_on=False
         )
 
+    def draw_dimension_chain(points, orientation, fixed_coord, offset,
+                             overall_offset=None, color=DIM_COLOR,
+                             fs=6.4, overall_fs=8):
+        pts = []
+        for value in points:
+            if not pts or abs(value - pts[-1]) > 1e-6:
+                pts.append(value)
+
+        if len(pts) < 2:
+            return
+
+        for start, end in zip(pts, pts[1:]):
+            if orientation == 'h':
+                draw_dimension(start, fixed_coord, end, fixed_coord,
+                               offset=offset, color=color, fs=fs,
+                               text_offset=0.10, arrow_scale=8)
+            else:
+                draw_dimension(fixed_coord, start, fixed_coord, end,
+                               offset=offset, color=color, fs=fs,
+                               text_offset=0.10, arrow_scale=8)
+
+        if overall_offset is not None:
+            if orientation == 'h':
+                draw_dimension(pts[0], fixed_coord, pts[-1], fixed_coord,
+                               offset=overall_offset, color=color, fs=overall_fs,
+                               text_offset=0.12, arrow_scale=10)
+            else:
+                draw_dimension(fixed_coord, pts[0], fixed_coord, pts[-1],
+                               offset=overall_offset, color=color, fs=overall_fs,
+                               text_offset=0.12, arrow_scale=10)
+
     # =====================================================================
     #  ΔΑΠΕΔΟ
     # =====================================================================
@@ -462,32 +493,22 @@ def draw_floor_plan():
     # =====================================================================
     #  ΔΙΑΣΤΑΣΕΙΣ ΤΟΙΧΩΝ / ΠΑΡΑΘΥΡΩΝ
     # =====================================================================
-    # Συνολικές εξωτερικές διαστάσεις
-    draw_dimension(0, 14.5, 10, 14.5, offset=1.10, text=format_dim(10.0), fs=8)
-    draw_dimension(0, 0, 0, 14.5, offset=1.15, text=format_dim(14.5), fs=8)
+    # Εξωτερικές αλυσιδωτές διαστάσεις για όλους τους τοίχους και τα ανοίγματα
+    top_chain = [0.0, 1.5, 4.0, 5.5, 8.5, 10.0]
+    bottom_chain = [0.0, 1.8, 3.6, 5.95, 6.90, 10.0]
+    left_chain = [0.0, 5.35, 7.10, 14.5]
+    right_chain = [0.0, 9.20, 12.35, 14.5]
+
+    draw_dimension_chain(top_chain, 'h', 14.5, offset=0.70, overall_offset=1.35)
+    draw_dimension_chain(bottom_chain, 'h', 0.0, offset=-0.78, overall_offset=-1.45)
+    draw_dimension_chain(left_chain, 'v', 0.0, offset=0.75, overall_offset=1.40)
+    draw_dimension_chain(right_chain, 'v', 10.0, offset=-0.75, overall_offset=-1.40)
 
     # Βασικές εσωτερικές διαστάσεις τοίχων
     draw_dimension(5.5, 0, 5.5, 8.5, offset=-0.65, text=format_dim(8.5), fs=7)
     draw_dimension(0, 4.2, 5.5, 4.2, offset=0.55, text=format_dim(5.5), fs=7)
     draw_dimension(7.2, 0, 7.2, 3.8, offset=-0.40, text=format_dim(3.8), fs=6.8)
     draw_dimension(7.2, 3.8, 10, 3.8, offset=-0.45, text=format_dim(2.8), fs=6.8)
-
-    # Διαστάσεις ανοιγμάτων παραθύρων
-    for x1, y1, x2, y2 in top_windows:
-        draw_dimension(x1, y1, x2, y2, offset=0.55, color=WINDOW_COLOR,
-                       fs=6.5, text_offset=0.10, arrow_scale=9)
-
-    for x1, y1, x2, y2 in kitchen_windows:
-        draw_dimension(x1, y1, x2, y2, offset=-0.65, color=WINDOW_COLOR,
-                       fs=6.0, text_offset=0.10, arrow_scale=8)
-
-    for x1, y1, x2, y2, _ in living_balcony_doors:
-        draw_dimension(x1, y1, x2, y2, offset=-0.72, color=DOOR_COLOR,
-                       fs=6.0, text_offset=0.10, arrow_scale=8)
-
-    for x1, y1, x2, y2, _ in dining_balcony_doors:
-        draw_dimension(x1, y1, x2, y2, offset=0.72, color=DOOR_COLOR,
-                       fs=6.0, text_offset=0.10, arrow_scale=8)
 
     # =====================================================================
     #  ΟΝΟΜΑΣΙΕΣ ΧΩΡΩΝ
