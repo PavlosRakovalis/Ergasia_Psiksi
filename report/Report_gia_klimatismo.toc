@@ -1,0 +1,70 @@
+\xpginauxfiletrue 
+\selectlanguage *{greek}
+\contentsline {section}{\numberline {1}Εισαγωγή / Σκοπός}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Αντικείμενο της παρούσας φάσης}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Βασική μεθοδολογική παραδοχή}{5}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Πίνακας βασικών συμβόλων}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Γενικά σύμβολα και θερμικά μεγέθη}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Συμβολισμοί δομικών στοιχείων του κτιρίου}{6}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Κτίριο προς μελέτη}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Σύντομη περιγραφή του κτιρίου}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Σκαρίφημα κάτοψης}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Γεωμετρικά χαρακτηριστικά της κάτοψης}{8}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Επιμέρους εμβαδά λειτουργικών χώρων}{8}{subsubsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.4}Προσανατολισμός του κτιρίου και ανοίγματα}{9}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Υποδήλωση ονομασίας δομικών στοιχείων}{9}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Πίνακας Βήμα 1α -- Καταγραφή δομικών στοιχείων εξωτερικού περιβλήματος}{10}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Αδιαφανή στοιχεία}{11}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}Διαφανή στοιχεία}{11}{subsubsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.6}Υπολογισμός επιφανειών εξωτερικού περιβλήματος}{11}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}Ακαθάριστες επιφάνειες εξωτερικών τοίχων}{11}{subsubsection.3.6.1}%
+\contentsline {subsubsection}{\numberline {3.6.2}Καθαρές επιφάνειες εξωτερικών τοίχων}{12}{subsubsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.7}Συντελεστές θερμοπερατότητας δομικών στοιχείων}{12}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Υπολογισμός μέσου συντελεστή θερμοπερατότητας Um}{13}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Συνοπτική αποτίμηση του κτιρίου προς μελέτη}{14}{subsection.3.9}%
+\contentsline {section}{\numberline {4}Υπολογισμός ψυκτικών φορτίων}{15}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Μεθοδολογία υπολογισμού}{15}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Βασικές εξισώσεις}{15}{subsubsection.4.1.1}%
+\contentsline {paragraph}{Αδιαφανή στοιχεία (τοίχοι και οροφή)}{15}{section*.13}%
+\contentsline {paragraph}{Υαλοπίνακες λόγω αγωγής}{16}{section*.14}%
+\contentsline {paragraph}{Ηλιακά κέρδη από παράθυρα}{16}{section*.15}%
+\contentsline {paragraph}{Εσωτερικά φορτία}{16}{section*.16}%
+\contentsline {paragraph}{Αερισμός / διείσδυση}{16}{section*.17}%
+\contentsline {subsection}{\numberline {4.2}Δεδομένα σχεδιασμού και παραδοχές}{17}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Συνθήκες σχεδιασμού}{17}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Επιλογές πινάκων και παραμέτρων της ASHRAE}{17}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Κοινή διόρθωση θερμοκρασίας}{18}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.4}Εσωτερικά φορτία και αερισμός}{18}{subsubsection.4.2.4}%
+\contentsline {subsubsection}{\numberline {4.2.5}Ωριαίες εξωτερικές συνθήκες}{19}{subsubsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.3}Αισθητά ψυκτικά φορτία}{19}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Φορτία από εξωτερικούς τοίχους}{19}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Φορτία από οροφή}{19}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Φορτία από υαλοπίνακες λόγω αγωγής}{20}{subsubsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.4}Ηλιακά κέρδη από παράθυρα και μπαλκονόπορτες}{20}{subsubsection.4.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.5}Εσωτερικά αισθητά φορτία}{21}{subsubsection.4.3.5}%
+\contentsline {subsubsection}{\numberline {4.3.6}Αισθητό φορτίο αερισμού / διείσδυσης}{21}{subsubsection.4.3.6}%
+\contentsline {subsubsection}{\numberline {4.3.7}Συνολικό αισθητό φορτίο}{22}{subsubsection.4.3.7}%
+\contentsline {subsection}{\numberline {4.4}Λανθάνοντα ψυκτικά φορτία}{22}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Λανθάνον φορτίο από ανθρώπους και εξοπλισμό}{22}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}Λανθάνον φορτίο αερισμού}{23}{subsubsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.3}Συνολικό λανθάνον φορτίο}{23}{subsubsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.5}Συγκεντρωτικά αποτελέσματα}{23}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Ποσοστιαία συμμετοχή φορτίων στην ώρα αιχμής}{24}{subsubsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.6}Συμπληρωμένο φύλλο εργασίας CLTD}{24}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Σχολιασμός της επίδρασης κάθε παράγοντα}{28}{subsection.4.7}%
+\contentsline {subsubsection}{\numberline {4.7.1}Εξωτερικοί τοίχοι}{28}{subsubsection.4.7.1}%
+\contentsline {subsubsection}{\numberline {4.7.2}Οροφή}{28}{subsubsection.4.7.2}%
+\contentsline {subsubsection}{\numberline {4.7.3}Υαλοπίνακες λόγω αγωγής}{28}{subsubsection.4.7.3}%
+\contentsline {subsubsection}{\numberline {4.7.4}Ηλιακά κέρδη ανοιγμάτων}{28}{subsubsection.4.7.4}%
+\contentsline {subsubsection}{\numberline {4.7.5}Εσωτερικά φορτία}{29}{subsubsection.4.7.5}%
+\contentsline {subsubsection}{\numberline {4.7.6}Αερισμός και λανθάνον φορτίο}{29}{subsubsection.4.7.6}%
+\contentsline {subsubsection}{\numberline {4.7.7}Γενική ερμηνεία της ώρας αιχμής}{29}{subsubsection.4.7.7}%
+\contentsline {subsection}{\numberline {4.8}Προτεινόμενες βελτιώσεις}{29}{subsection.4.8}%
+\contentsline {subsubsection}{\numberline {4.8.1}Εξωτερική σκίαση ή χαμηλότερος συντελεστής σκίασης}{30}{subsubsection.4.8.1}%
+\contentsline {subsubsection}{\numberline {4.8.2}Βελτίωση θερμομόνωσης οροφής}{30}{subsubsection.4.8.2}%
+\contentsline {subsubsection}{\numberline {4.8.3}Βελτίωση θερμοπερατότητας ανοιγμάτων}{30}{subsubsection.4.8.3}%
+\contentsline {subsubsection}{\numberline {4.8.4}Μείωση αερισμού / διείσδυσης}{30}{subsubsection.4.8.4}%
+\contentsline {subsubsection}{\numberline {4.8.5}Συνολική ενδεικτική επίδραση}{30}{subsubsection.4.8.5}%
+\contentsline {section}{\numberline {5}Συμπεράσματα}{31}{section.5}%
+\contentsline {section}{\numberline {6}Βιβλιογραφία}{32}{section.6}%
+\xpginauxfilefalse 

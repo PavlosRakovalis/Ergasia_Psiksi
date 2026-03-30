@@ -1,0 +1,9 @@
+Table 16 - The "b" Classification Values Calculated for Different Envelope Constructions and Room Air Circulation Rates
+Source: typologio_Klima.pdf (page 28)
+,
+Room_Envelope_Construction_mass_kg_per_m2,Low,Medium,High,Very_High
+"50-mm Wood Floor (50)",B,A,A,A
+"76-mm Concrete Floor (195.3)",C,B,B,A
+"152.4-mm Concrete Floor (366.2)",C,C,C,B
+"203.2-mm Concrete Floor (585.8)",D,D,C,C
+"304.8-mm Concrete Floor (781.1)",D,D,D,D

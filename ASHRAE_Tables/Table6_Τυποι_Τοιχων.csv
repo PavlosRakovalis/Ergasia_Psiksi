@@ -1,0 +1,55 @@
+Table 6 — Wall Construction Group Description (Κατηγορίες Κατασκευής Τοίχων)
+Πηγή: ASHRAE Handbook of Fundamentals 1989 / GRP-158 | Πίνακας καθηγητή ΑΠΘ
+Ομάδες: A=βαρύτατη → G=ελαφρύτατη | Κωδικοί στρωμάτων αναφέρονται στον Πίνακα 8
+Σειρά στρωμάτων: A0=εξωτερική επιφάνεια → E0=εσωτερική επιφάνεια
+,,,,,
+Τμήμα_Κατασκευής,Μάζα_kg_m2,U_W_m2K,Ομάδα,Περιγραφή,Κωδικοί_Στρωμάτων_(Πίν.8)
+101.6-mm Face Brick + (Brick),,,,,
+,405,2.033,F,101.6-mm Face Brick,"A0, A2, B1, A2, E0"
+,439,2.356,D,101.6-mm Common Brick,"A0, A2, C4, E1, E0"
+,439,0.987-1.709,C,101.6-mm Insulation or Air Space + 101.6-mm Common Brick,"A0, A2, C4, B1/B2, E1, E0"
+,430,0.630,B,50.8-mm Insulation + 101.6-mm Common Brick,"A0, A2, B3, C4, E1, E0"
+,635,1.714,B,203.2-mm Common Brick,"A0, A2, C9, E1, E0"
+,635,0.874-1.379,A,Insulation or Air Space + 203.2-mm Common Brick,"A0, A2, C9, B1/B2, E1, E0"
+101.6-mm Face Brick + (H.W. Concrete),,,,,
+,459,1.987,C,Air Space + 50.8-mm Concrete,"A0, A2, B1, C5, E1, E0"
+,474,0.658,C,50.8-mm Insulation + 101.6-mm Concrete,"A0, A2, B3, C5, E1, E0"
+,698-928,0.625-0.636,A,Air Space or Insulation + 203.2-mm or more Concrete,"A0, A2, B1, C10/11, E1, E0"
+101.6-mm Face Brick + (L.W. or H.W. Concrete Block),,,,,
+,303,1.811,E,101.6-mm Block,"A0, A2, C2, E1, E0"
+,303,0.868-1.397,D,Air Space or Insulation + 101.6-mm Block,"A0, A2, C2, B1/B2, E1, E0"
+,342,1.555,D,203.2-mm Block,"A0, A2, C7, A6, E0"
+,356-434,1.255-1.561,C,Air Space or 25.4-mm Insulation + 152.4-mm or 203.2-mm Block,"A0, A2, B1, C7/C8, E1, E0"
+,434,0.545-0.607,B,50.8-mm Insulation + 203.2-mm Block,"A0, A2, B3, C7/C8, E1, E0"
+101.6-mm Face Brick + (Clay Tile),,,,,
+,347,2.163,D,101.6-mm Tile,"A0, A2, C1, E1, E0"
+,347,1.595,D,Air Space + 101.6-mm Tile,"A0, A2, C1, B1, E1, E0"
+,347,0.959,C,Insulation + 101.6-mm Tile,"A0, A2, C1, B2, E1, E0"
+,469,1.561,C,203.2-mm Tile,"A0, A2, C6, E1, E0"
+,469,0.806-1.255,B,Air Space or 25.4-mm Insulation + 203.2-mm Tile,"A0, A2, C6, B1/B2, E1, E0"
+,474,0.551,B,50.8-mm Insulation + 203.2-mm Tile,"A0, A2, B3, C6, E1, E0"
+H.W. Concrete Wall + (Finish),,,,,
+,308,3.321,E,101.6-mm Concrete,"A0, A1, C5, E1, E0"
+,308,0.675-1.136,D,101.6-mm Concrete + 25.4-mm or 50.8-mm Insulation,"A0, A1, C5, B2/B3, E1, E0"
+,308,0.675,C,50.8-mm Insulation + 101.6-mm Concrete,"A0, A1, B6, C5, E1, E0"
+,532,2.782,C,203.2-mm Concrete,"A0, A1, C10, E1, E0"
+,537,0.653-1.061,B,203.2-mm Concrete + 25.4-mm or 50.8-mm Insulation,"A0, A1, C10, B5/B6, E1, E0"
+,762,2.390,B,304.8-mm Concrete,"A0, A1, C11, E1, E0"
+,762,0.642,A,304.8-mm Concrete + Insulation,"A0, A1, C11, B6, A6, E0"
+L.W. and H.W. Concrete Block + (Finish),,,,,
+,142,0.914-1.493,F,101.6-mm Block + Air Space/Insulation,"A0, A1, C2, B1/B2, E1, E0"
+,142-181,0.596-0.647,E,50.8-mm Insulation + 101.6-mm Block,"A0, A1, B3, C2/C3, E1, E0"
+,229-249,1.666-2.282,E,203.2-mm Block,"A0, A1, C7/C8, E1, E0"
+,200-278,0.846-0.982,D,203.2-mm Block + Air Space/Insulation,"A0, A1, C7/C8, B1/B2, E1, E0"
+Clay Tile + (Finish),,,,,
+,190,2.379,F,101.6-mm Tile,"A0, A1, C1, E1, E0"
+,190,1.720,F,101.6-mm Tile + Air Space,"A0, A1, C1, B1, E1, E0"
+,190,0.993,F,101.6-mm Tile + 25.4-mm Insulation,"A0, A1, C1, B2, E1, E0"
+,195,0.623,D,50.8-mm Insulation + 101.6-mm Tile,"A0, A1, B3, C1, E1, E0"
+,308,1.681,D,203.2-mm Tile,"A0, A1, C6, E1, E0"
+,308,0.857-1.312,B,203.2-mm Tile + Air Space/25.4-mm Insulation,"A0, A1, C6, B1/B2, E1, E0"
+,308,0.562,B,50.8-mm Insulation + 203.2-mm Tile,"A0, A1, B3, C6, E1, E0"
+Metal Curtain Wall,,,,,
+,24-29,0.516-1.306,G,With/without air space + 25.4/50.8/76.2-mm Insulation,"A0, A3, B5/B6/B12, A3, E0"
+Frame Wall,,,,,
+,78,0.459-1.010,G,25.4-mm to 76.2-mm Insulation,"A0, A1, B1, B2/B3/B4, E1, E0"
