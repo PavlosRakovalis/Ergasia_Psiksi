@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1774901871.12206 "checklist_klimatismos.xdv" "checklist_klimatismos.pdf" "checklist_klimatismos" 1774901872.44575 0
-  "checklist_klimatismos.xdv" 1774901871.07667 56612 d0e5a0162314887f534080826f4392d5 "xelatex"
+["xdvipdfmx"] 1777902266.15146 "checklist_klimatismos.xdv" "checklist_klimatismos.pdf" "checklist_klimatismos" 1777902267.47394 0
+  "checklist_klimatismos.xdv" 1777902266.10437 57416 01e340dd885bcd85c8366cb66612df46 "xelatex"
   (generated)
   "checklist_klimatismos.pdf"
   (rewritten before read)
-["xelatex"] 1774901870.5357 "checklist_klimatismos.tex" "checklist_klimatismos.xdv" "checklist_klimatismos" 1774901872.44469 0
+["xelatex"] 1777902265.56327 "checklist_klimatismos.tex" "checklist_klimatismos.xdv" "checklist_klimatismos" 1777902267.47315 0
   "/etc/texmf/web2c/texmf.cnf" 1774886025.64856 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -60,9 +60,9 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1774886064 9086844 6da949614bee96958c570b6cd1030166 ""
-  "checklist_klimatismos.aux" 1774901871.07567 1090 97b5ce469f14deaf8d67eb777f51d34c "xelatex"
-  "checklist_klimatismos.tex" 1774901863.08468 13276 04ea233f14ac65e3f6fb9feda3be9da6 ""
-  "floor_plan_G1.png" 1774900121.9228 375456 a40c7349d5041604130311507eb4cb04 ""
+  "checklist_klimatismos.aux" 1777902266.10437 1120 15b949400ec112380cffb2c6c48e074b "xelatex"
+  "checklist_klimatismos.tex" 1774902979.7476 13191 d236a83a1a8f2d4ca36d9efe14b60773 ""
+  "floor_plan_G1.png" 1777902182.63836 402343 4d855fe93e21f642a544577949707843 ""
   (generated)
   "checklist_klimatismos.aux"
   "checklist_klimatismos.log"

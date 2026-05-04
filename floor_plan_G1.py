@@ -254,6 +254,14 @@ def draw_floor_plan():
                 color=WINDOW_COLOR, fontfamily='sans-serif',
                 fontweight='bold', zorder=10)
 
+    def code_tag(x, y, text, color, fs=7.5):
+        """Tag στοιχείου: πλαίσιο με κωδικό για αντιστοίχιση με πίνακα ΒΗΜΑ 1α."""
+        ax.text(x, y, text, fontsize=fs, ha='center', va='center',
+                color=color, fontfamily='sans-serif', fontweight='bold',
+                bbox=dict(boxstyle='round,pad=0.22', facecolor='#FFFFFF',
+                          edgecolor=color, linewidth=0.9),
+                zorder=12)
+
     def format_dim(value):
         return f"{value:.2f} m"
 
@@ -525,6 +533,35 @@ def draw_floor_plan():
 
     # Ονομασία δεξιού χώρου (πρώην σκάλες, τώρα ανοιχτός χώρος)
     label(7.7, 6.5, 'ΧΩΛ', fs=11, bold=False)
+
+    # =====================================================================
+    #  ΚΩΔΙΚΟΙ ΔΟΜΙΚΩΝ ΣΤΟΙΧΕΙΩΝ (αντιστοίχιση με πίνακα ΒΗΜΑ 1α)
+    # =====================================================================
+    OPENING_TAG_COLOR = WINDOW_COLOR     # μπλε για ανοίγματα (διαφανή)
+    WALL_TAG_COLOR    = '#B7472A'         # κόκκινο/καφέ για τοίχους (αδιαφανή)
+    SURF_TAG_COLOR    = '#5B7A3D'         # πράσινο για οροφή/δάπεδο
+
+    # --- ΑΝΟΙΓΜΑΤΑ (διαφανή στοιχεία) — εσωτερικά του χώρου, πλησίον ανοίγματος ---
+    code_tag(2.75, 14.05, 'W_iΒ1', OPENING_TAG_COLOR)   # ΚΑΘΙΣΤΙΚΟ — Β #1
+    code_tag(7.00, 14.05, 'W_iΒ2', OPENING_TAG_COLOR)   # ΚΑΘΙΣΤΙΚΟ — Β #2
+    code_tag(2.70, 1.55,  'W_iΝ',  OPENING_TAG_COLOR)   # ΚΟΥΖΙΝΑ — Ν
+    code_tag(9.40, 10.78, 'W_iΑ',  OPENING_TAG_COLOR)   # ΚΑΘΙΣΤΙΚΟ — Α
+    code_tag(0.55, 6.22,  'W_iΔ',  OPENING_TAG_COLOR)   # ΤΡΑΠΕΖΑΡΙΑ — Δ
+
+    # --- ΕΞΩΤΕΡΙΚΟΙ ΤΟΙΧΟΙ (αδιαφανή) — εξωτερικά πέραν διαστάσεων ---
+    code_tag(5.00, 16.45, 'W_LΒ', WALL_TAG_COLOR)       # τοίχος Βορρά (πάνω)
+    code_tag(5.00, -1.85, 'W_LΝ', WALL_TAG_COLOR)       # τοίχος Νότου (κάτω)
+    code_tag(11.95, 7.25, 'W_LΑ', WALL_TAG_COLOR)       # τοίχος Ανατολής (δεξιά)
+    code_tag(-1.95, 7.25, 'W_LΔ', WALL_TAG_COLOR)       # τοίχος Δύσης (αριστερά)
+
+    # --- ΟΡΟΦΗ / ΔΑΠΕΔΟ (οριζόντια στοιχεία — υπόμνημα) ---
+    ax.text(11.95, 1.5,
+            'R = Οροφή\nF = Δάπεδο\n(όλη η κάτοψη)',
+            fontsize=7, ha='center', va='center',
+            color=SURF_TAG_COLOR, fontfamily='sans-serif', fontweight='bold',
+            bbox=dict(boxstyle='round,pad=0.30', facecolor='#FFFFFF',
+                      edgecolor=SURF_TAG_COLOR, linewidth=0.9),
+            zorder=12)
 
     # =====================================================================
     #  ΤΙΤΛΟΣ (κάτω, επαγγελματικό πλαίσιο)

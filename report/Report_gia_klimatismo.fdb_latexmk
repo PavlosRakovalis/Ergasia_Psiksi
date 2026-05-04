@@ -1,12 +1,12 @@
 # Fdb version 4
-["xdvipdfmx"] 1774899602.99916 "Report_gia_klimatismo.xdv" "Report_gia_klimatismo.pdf" "Report_gia_klimatismo" 1774899604.4008 0
-  "Report_gia_klimatismo.xdv" 1774899602.91784 469620 91167a1ca20c923a0fd8ed3a46f9f0c7 "xelatex"
+["xdvipdfmx"] 1777902256.60567 "Report_gia_klimatismo.xdv" "Report_gia_klimatismo.pdf" "Report_gia_klimatismo" 1777902258.72163 0
+  "Report_gia_klimatismo.xdv" 1777902256.54037 475784 9cd6aa3a14d4f92a4bfcbc1a1af776a4 "xelatex"
   "report_erotima_a.xdv" 0 -1 0 ""
   (generated)
   "Report_gia_klimatismo.pdf"
   "report_erotima_a.pdf"
   (rewritten before read)
-["xelatex"] 1774899601.79487 "Report_gia_klimatismo.tex" "Report_gia_klimatismo.xdv" "Report_gia_klimatismo" 1774899604.39895 0
+["xelatex"] 1777902251.8715 "Report_gia_klimatismo.tex" "Report_gia_klimatismo.xdv" "Report_gia_klimatismo" 1777902258.72031 0
   "/etc/texmf/web2c/texmf.cnf" 1774886025.64856 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -100,11 +100,11 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1774886064 9086844 6da949614bee96958c570b6cd1030166 ""
-  "Report_gia_klimatismo.aux" 1774899602.91584 20515 e3fcb16a4f522192e1d8cb4a83bc8b01 "xelatex"
-  "Report_gia_klimatismo.out" 1774899602.91784 18525 ffbb92ee6451c0d70d8cb2c8934260ad "xelatex"
-  "Report_gia_klimatismo.tex" 1774899596.95284 79576 ced759f4018d83a3d92a4c5e77046baf ""
-  "Report_gia_klimatismo.toc" 1774899602.91784 8455 1a6c445053dbe20ab2841d400073472e "xelatex"
-  "floor_plan_G1.png" 1774888655.06899 375456 a40c7349d5041604130311507eb4cb04 ""
+  "Report_gia_klimatismo.aux" 1777902256.53837 20525 bc1a195f3f4cf8e02c97a849918c2573 "xelatex"
+  "Report_gia_klimatismo.out" 1777902256.53937 18525 ffbb92ee6451c0d70d8cb2c8934260ad "xelatex"
+  "Report_gia_klimatismo.tex" 1774899730.14583 80812 c7251ecf14f0dadc47d2482ee80e61f0 ""
+  "Report_gia_klimatismo.toc" 1777902256.54037 8455 1a6c445053dbe20ab2841d400073472e "xelatex"
+  "floor_plan_G1.png" 1777902182.63636 402343 4d855fe93e21f642a544577949707843 ""
   (generated)
   "Report_gia_klimatismo.aux"
   "Report_gia_klimatismo.log"
