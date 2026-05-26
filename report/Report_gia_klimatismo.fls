@@ -196,6 +196,12 @@ INPUT ./floor_plan_G1.png
 INPUT ./floor_plan_G1.png
 INPUT ./floor_plan_G1.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT ../psychrometric_case_i.png
+INPUT ../psychrometric_case_i.png
+INPUT ../psychrometric_case_i.png
+INPUT ../psychrometric_case_ii.png
+INPUT ../psychrometric_case_ii.png
+INPUT ../psychrometric_case_ii.png
 INPUT Report_gia_klimatismo.aux
 INPUT ./Report_gia_klimatismo.out
 INPUT ./Report_gia_klimatismo.out

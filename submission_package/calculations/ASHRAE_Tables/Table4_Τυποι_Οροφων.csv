@@ -1,0 +1,19 @@
+Table 4 — Roof Construction Code (Κωδικοί Κατασκευής Οροφών)
+Πηγή: ASHRAE Handbook of Fundamentals 1989 / GRP-158 | Πίνακας καθηγητή ΑΠΘ
+Σχόλιο: Οι κωδικοί στρωμάτων (A0/B/C/E) αναφέρονται στον Πίνακα 8 (πάχος L / αγωγιμότητα K / πυκνότητα D / θερμοχωρητικότητα SH / αντίσταση R)
+Σειρά στρωμάτων: από έξω (A0=εξωτερική επιφάνεια) προς μέσα (E0=εσωτερική επιφάνεια)
+,
+Τύπος_Οροφής,Περιγραφή,Κωδικοί_Στρωμάτων_(Πίν.8),Εναλλακτική_Κατασκευή
+1,Steel sheet with 25-mm insulation,"A0, E2, E3, B5, A3, E0",
+2,25-mm wood with 25-mm insulation,"A0, E2, E3, B5, B7, E0",
+3,100-mm lightweight concrete,"A0, E2, E3, C14, E0",
+4,50-mm h.w. concrete with 25-mm insulation,"A0, E2, E3, B5, C12, E0",
+5,25-mm wood with 50-mm insulation,"A0, E2, E3, B6, B7, E0","A0, E2, E3, B5, C12, E0"
+6,150-mm lightweight concrete,"A0, E2, E3, C15, E0",
+7,63-mm wood with 25-mm insulation,"A0, E2, E3, B5, B8, E0",
+8,200-mm lightweight concrete,"A0, E2, E3, C16, E0",
+9,100-mm h.w. concrete with 25-mm insulation,"A0, E2, E3, B5, C5, E0",
+10,63-mm wood with 50-mm insulation,"A0, E2, E3, B6, B8, E0",
+11,Roof terrace system,"A0, C12, B1, B6, E2, E3, C5, E0",
+12,150-mm h.w. concrete with 25-mm insulation,"A0, E2, E3, B5, C13, E0",
+13,100-mm wood with 25-mm insulation,"A0, E2, E3, B5, B9, E0",

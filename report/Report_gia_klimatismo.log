@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.3.30)  4 MAY 2026 13:44
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.3.30)  26 MAY 2026 14:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -745,277 +745,439 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--72
 
 [1
 
-] (./Report_gia_klimatismo.toc [1] [2])
+] (./Report_gia_klimatismo.toc [1] [2]
+LaTeX Info: Redefining \rmfamily on input line 80.
+LaTeX Info: Redefining \sffamily on input line 80.
+LaTeX Info: Redefining \ttfamily on input line 80.
+LaTeX Info: Redefining \rmfamily on input line 88.
+LaTeX Info: Redefining \sffamily on input line 88.
+LaTeX Info: Redefining \ttfamily on input line 88.
+LaTeX Info: Redefining \rmfamily on input line 95.
+LaTeX Info: Redefining \sffamily on input line 95.
+LaTeX Info: Redefining \ttfamily on input line 95.
+)
 \tf@toc=\write4
 \openout4 = `Report_gia_klimatismo.toc'.
 
- [3]
-LaTeX Info: Redefining \rmfamily on input line 100.
-LaTeX Info: Redefining \sffamily on input line 100.
-LaTeX Info: Redefining \ttfamily on input line 100.
-LaTeX Info: Redefining \rmfamily on input line 100.
-LaTeX Info: Redefining \sffamily on input line 100.
-LaTeX Info: Redefining \ttfamily on input line 100.
- [4]
-Overfull \hbox (5.8887pt too wide) in paragraph at lines 131--140
+ [3] [4]
+LaTeX Info: Redefining \rmfamily on input line 91.
+LaTeX Info: Redefining \sffamily on input line 91.
+LaTeX Info: Redefining \ttfamily on input line 91.
+LaTeX Info: Redefining \rmfamily on input line 91.
+LaTeX Info: Redefining \sffamily on input line 91.
+LaTeX Info: Redefining \ttfamily on input line 91.
+LaTeX Info: Redefining \rmfamily on input line 101.
+LaTeX Info: Redefining \sffamily on input line 101.
+LaTeX Info: Redefining \ttfamily on input line 101.
+LaTeX Info: Redefining \rmfamily on input line 101.
+LaTeX Info: Redefining \sffamily on input line 101.
+LaTeX Info: Redefining \ttfamily on input line 101.
+LaTeX Info: Redefining \rmfamily on input line 116.
+LaTeX Info: Redefining \sffamily on input line 116.
+LaTeX Info: Redefining \ttfamily on input line 116.
+
+Overfull \hbox (26.34251pt too wide) in paragraph at lines 122--127
+\TU/DejaVuSerif(1)/m/n/12 κατοικίας που εξετάζεται στη Θεσσαλονίκη (Κλιματική Ζ
+ώνη Γ' κατά Κ.Εν.Α.Κ.)
+ []
+
+[5]
+LaTeX Info: Redefining \rmfamily on input line 140.
+LaTeX Info: Redefining \sffamily on input line 140.
+LaTeX Info: Redefining \ttfamily on input line 140.
+LaTeX Info: Redefining \rmfamily on input line 142.
+LaTeX Info: Redefining \sffamily on input line 142.
+LaTeX Info: Redefining \ttfamily on input line 142.
+
+Overfull \hbox (5.8887pt too wide) in paragraph at lines 150--161
 \TU/DejaVuSerif(1)/m/n/12 υπολογισμούς το ισόγειο θα αντιμετωπιστεί ως \TU/Deja
 VuSerif(1)/b/n/12 μία ενιαία θερμική ζώνη\TU/DejaVuSerif(1)/m/n/12 .
  []
 
-LaTeX Info: Redefining \rmfamily on input line 190.
-LaTeX Info: Redefining \sffamily on input line 190.
-LaTeX Info: Redefining \ttfamily on input line 190.
-LaTeX Info: Redefining \rmfamily on input line 190.
-LaTeX Info: Redefining \sffamily on input line 190.
-LaTeX Info: Redefining \ttfamily on input line 190.
-LaTeX Info: Redefining \rmfamily on input line 190.
-LaTeX Info: Redefining \sffamily on input line 190.
-LaTeX Info: Redefining \ttfamily on input line 190.
-LaTeX Info: Redefining \rmfamily on input line 190.
-LaTeX Info: Redefining \sffamily on input line 190.
-LaTeX Info: Redefining \ttfamily on input line 190.
-LaTeX Info: Redefining \rmfamily on input line 190.
-LaTeX Info: Redefining \sffamily on input line 190.
-LaTeX Info: Redefining \ttfamily on input line 190.
-LaTeX Info: Redefining \rmfamily on input line 190.
-LaTeX Info: Redefining \sffamily on input line 190.
-LaTeX Info: Redefining \ttfamily on input line 190.
-[5] [6]
+LaTeX Info: Redefining \rmfamily on input line 211.
+LaTeX Info: Redefining \sffamily on input line 211.
+LaTeX Info: Redefining \ttfamily on input line 211.
+LaTeX Info: Redefining \rmfamily on input line 211.
+LaTeX Info: Redefining \sffamily on input line 211.
+LaTeX Info: Redefining \ttfamily on input line 211.
+LaTeX Info: Redefining \rmfamily on input line 211.
+LaTeX Info: Redefining \sffamily on input line 211.
+LaTeX Info: Redefining \ttfamily on input line 211.
+LaTeX Info: Redefining \rmfamily on input line 211.
+LaTeX Info: Redefining \sffamily on input line 211.
+LaTeX Info: Redefining \ttfamily on input line 211.
+LaTeX Info: Redefining \rmfamily on input line 211.
+LaTeX Info: Redefining \sffamily on input line 211.
+LaTeX Info: Redefining \ttfamily on input line 211.
+LaTeX Info: Redefining \rmfamily on input line 211.
+LaTeX Info: Redefining \sffamily on input line 211.
+LaTeX Info: Redefining \ttfamily on input line 211.
+[6] [7]
 Overfull \vbox (288.71501pt too high) has occurred while \output is active []
 
 
-[7]
-Overfull \hbox (6.98743pt too wide) in paragraph at lines 219--219
+[8]
+Overfull \hbox (6.98743pt too wide) in paragraph at lines 240--240
  []|\TU/DejaVuSerif(1)/b/n/10.95 Συμβολισμός| 
  []
 
+LaTeX Info: Redefining \rmfamily on input line 275.
+LaTeX Info: Redefining \sffamily on input line 275.
+LaTeX Info: Redefining \ttfamily on input line 275.
+LaTeX Info: Redefining \rmfamily on input line 275.
+LaTeX Info: Redefining \sffamily on input line 275.
+LaTeX Info: Redefining \ttfamily on input line 275.
+LaTeX Info: Redefining \rmfamily on input line 275.
+LaTeX Info: Redefining \sffamily on input line 275.
+LaTeX Info: Redefining \ttfamily on input line 275.
+LaTeX Info: Redefining \rmfamily on input line 275.
+LaTeX Info: Redefining \sffamily on input line 275.
+LaTeX Info: Redefining \ttfamily on input line 275.
+LaTeX Info: Redefining \rmfamily on input line 275.
+LaTeX Info: Redefining \sffamily on input line 275.
+LaTeX Info: Redefining \ttfamily on input line 275.
+[9]
 File: floor_plan_G1.png Graphic file (type bmp)
 <floor_plan_G1.png>
-[8] [9] [10]
-Overfull \hbox (38.33441pt too wide) in paragraph at lines 342--342
+ [10] [11] [12]
+Overfull \hbox (38.33441pt too wide) in paragraph at lines 398--398
  []|\TU/DejaVuSerif(1)/b/n/10.95 Προσανατολισμός| 
  []
 
-[11]
-Overfull \hbox (5.09229pt too wide) in paragraph at lines 390--390
+[13]
+Overfull \hbox (5.09229pt too wide) in paragraph at lines 446--446
 []|\TU/DejaVuSerif(1)/b/n/8 Συμβολισμός| 
  []
 
 
-Overfull \hbox (18.69139pt too wide) in paragraph at lines 390--390
+Overfull \hbox (18.69139pt too wide) in paragraph at lines 446--446
 []|\TU/DejaVuSerif(1)/b/n/8 Προσανατολισμός| 
  []
 
 
-Overfull \hbox (4.41185pt too wide) in paragraph at lines 390--390
+Overfull \hbox (4.41185pt too wide) in paragraph at lines 446--446
 []|\TU/DejaVuSerif(1)/b/n/8 Μήκος/πλάτος
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--390
+Underfull \hbox (badness 10000) in paragraph at lines 446--446
 []|\TU/DejaVuSerif(1)/b/n/8 Ύψος
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--390
+Underfull \hbox (badness 10000) in paragraph at lines 446--446
 []|\TU/DejaVuSerif(1)/b/n/8 Επιφάνεια
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--390
+Underfull \hbox (badness 10000) in paragraph at lines 446--446
 []|\TU/DejaVuSerif(1)/b/n/8 Αριθμός
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--390
+Underfull \hbox (badness 10000) in paragraph at lines 446--446
 \TU/DejaVuSerif(1)/b/n/8 επιφα-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--390
+Underfull \hbox (badness 10000) in paragraph at lines 446--446
 \TU/DejaVuSerif(1)/b/n/8 περατότη-
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 390--390
+Underfull \hbox (badness 1616) in paragraph at lines 446--446
 []|\TU/DejaVuSerif(1)/m/n/8 Παράθυρο -- καθι-
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 390--390
+Underfull \hbox (badness 1616) in paragraph at lines 446--446
 []|\TU/DejaVuSerif(1)/m/n/8 Παράθυρο -- καθι-
  []
 
 
-Underfull \hbox (badness 6268) in paragraph at lines 390--390
+Underfull \hbox (badness 6268) in paragraph at lines 446--446
 []|\TU/DejaVuSerif(1)/m/n/8 Παράθυρο -- κου-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--390
+Underfull \hbox (badness 10000) in paragraph at lines 446--446
 []|\TU/DejaVuSerif(1)/m/n/8 Μπαλκονόπορτα
  []
 
 
-Underfull \hbox (badness 3758) in paragraph at lines 390--390
+Underfull \hbox (badness 3758) in paragraph at lines 446--446
 \TU/DejaVuSerif(1)/m/n/8 (δίφυλλη) -- καθι-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--390
+Underfull \hbox (badness 10000) in paragraph at lines 446--446
 []|\TU/DejaVuSerif(1)/m/n/8 Μπαλκονόπορτα
  []
 
 
-Overfull \hbox (6.98743pt too wide) in paragraph at lines 414--414
+Overfull \hbox (6.98743pt too wide) in paragraph at lines 470--470
  []|\TU/DejaVuSerif(1)/b/n/10.95 Συμβολισμός| 
- []
-
-[12]
-Overfull \hbox (6.98743pt too wide) in paragraph at lines 433--433
- []|\TU/DejaVuSerif(1)/b/n/10.95 Συμβολισμός| 
- []
-
-[13]
-Overfull \hbox (13.52917pt too wide) in paragraph at lines 502--502
-[]\TU/DejaVuSerif(1)/b/n/14.4 Συντελεστές θερμοπερατότητας δομικών στοιχείων 
  []
 
 [14]
-LaTeX Info: Redefining \rmfamily on input line 525.
-LaTeX Info: Redefining \sffamily on input line 525.
-LaTeX Info: Redefining \ttfamily on input line 525.
-LaTeX Info: Redefining \rmfamily on input line 527.
-LaTeX Info: Redefining \sffamily on input line 527.
-LaTeX Info: Redefining \ttfamily on input line 527.
-
-Overfull \hbox (5.56277pt too wide) in paragraph at lines 531--531
-[]\TU/DejaVuSerif(1)/b/n/14.4 Υπολογισμός μέσου συντελεστή θερμοπερατότητας
+Overfull \hbox (6.98743pt too wide) in paragraph at lines 489--489
+ []|\TU/DejaVuSerif(1)/b/n/10.95 Συμβολισμός| 
  []
 
 [15]
-LaTeX Info: Redefining \rmfamily on input line 598.
-LaTeX Info: Redefining \sffamily on input line 598.
-LaTeX Info: Redefining \ttfamily on input line 598.
-LaTeX Info: Redefining \rmfamily on input line 598.
-LaTeX Info: Redefining \sffamily on input line 598.
-LaTeX Info: Redefining \ttfamily on input line 598.
- [16]
-LaTeX Info: Redefining \rmfamily on input line 606.
-LaTeX Info: Redefining \sffamily on input line 606.
-LaTeX Info: Redefining \ttfamily on input line 606.
-LaTeX Info: Redefining \rmfamily on input line 611.
-LaTeX Info: Redefining \sffamily on input line 611.
-LaTeX Info: Redefining \ttfamily on input line 611.
-LaTeX Info: Redefining \rmfamily on input line 611.
-LaTeX Info: Redefining \sffamily on input line 611.
-LaTeX Info: Redefining \ttfamily on input line 611.
-LaTeX Info: Redefining \rmfamily on input line 613.
-LaTeX Info: Redefining \sffamily on input line 613.
-LaTeX Info: Redefining \ttfamily on input line 613.
-LaTeX Info: Redefining \rmfamily on input line 613.
-LaTeX Info: Redefining \sffamily on input line 613.
-LaTeX Info: Redefining \ttfamily on input line 613.
-LaTeX Info: Redefining \rmfamily on input line 615.
-LaTeX Info: Redefining \sffamily on input line 615.
-LaTeX Info: Redefining \ttfamily on input line 615.
-LaTeX Info: Redefining \rmfamily on input line 615.
-LaTeX Info: Redefining \sffamily on input line 615.
-LaTeX Info: Redefining \ttfamily on input line 615.
- [17
+Overfull \hbox (13.52917pt too wide) in paragraph at lines 558--558
+[]\TU/DejaVuSerif(1)/b/n/14.4 Συντελεστές θερμοπερατότητας δομικών στοιχείων 
+ []
 
-] [18]
-LaTeX Info: Redefining \rmfamily on input line 762.
-LaTeX Info: Redefining \sffamily on input line 762.
-LaTeX Info: Redefining \ttfamily on input line 762.
- [19] [20] [21]
-Overfull \hbox (11.19397pt too wide) detected at line 942
+[16]
+LaTeX Info: Redefining \rmfamily on input line 581.
+LaTeX Info: Redefining \sffamily on input line 581.
+LaTeX Info: Redefining \ttfamily on input line 581.
+LaTeX Info: Redefining \rmfamily on input line 583.
+LaTeX Info: Redefining \sffamily on input line 583.
+LaTeX Info: Redefining \ttfamily on input line 583.
+
+Overfull \hbox (5.56277pt too wide) in paragraph at lines 587--587
+[]\TU/DejaVuSerif(1)/b/n/14.4 Υπολογισμός μέσου συντελεστή θερμοπερατότητας
+ []
+
+[17]
+LaTeX Info: Redefining \rmfamily on input line 654.
+LaTeX Info: Redefining \sffamily on input line 654.
+LaTeX Info: Redefining \ttfamily on input line 654.
+LaTeX Info: Redefining \rmfamily on input line 654.
+LaTeX Info: Redefining \sffamily on input line 654.
+LaTeX Info: Redefining \ttfamily on input line 654.
+ [18]
+LaTeX Info: Redefining \rmfamily on input line 662.
+LaTeX Info: Redefining \sffamily on input line 662.
+LaTeX Info: Redefining \ttfamily on input line 662.
+LaTeX Info: Redefining \rmfamily on input line 667.
+LaTeX Info: Redefining \sffamily on input line 667.
+LaTeX Info: Redefining \ttfamily on input line 667.
+LaTeX Info: Redefining \rmfamily on input line 667.
+LaTeX Info: Redefining \sffamily on input line 667.
+LaTeX Info: Redefining \ttfamily on input line 667.
+LaTeX Info: Redefining \rmfamily on input line 669.
+LaTeX Info: Redefining \sffamily on input line 669.
+LaTeX Info: Redefining \ttfamily on input line 669.
+LaTeX Info: Redefining \rmfamily on input line 669.
+LaTeX Info: Redefining \sffamily on input line 669.
+LaTeX Info: Redefining \ttfamily on input line 669.
+LaTeX Info: Redefining \rmfamily on input line 671.
+LaTeX Info: Redefining \sffamily on input line 671.
+LaTeX Info: Redefining \ttfamily on input line 671.
+LaTeX Info: Redefining \rmfamily on input line 671.
+LaTeX Info: Redefining \sffamily on input line 671.
+LaTeX Info: Redefining \ttfamily on input line 671.
+ [19
+
+] [20]
+LaTeX Info: Redefining \rmfamily on input line 819.
+LaTeX Info: Redefining \sffamily on input line 819.
+LaTeX Info: Redefining \ttfamily on input line 819.
+ [21] [22] [23]
+Overfull \hbox (13.853pt too wide) in paragraph at lines 978--985
+[]\TU/DejaVuSerif(1)/b/n/12 Συνεπώς, αν η οροφή ήταν θερμικά «ελαφριά» (μικρή θ
+ερμική μάζα),
+ []
+
+
+Overfull \hbox (2.20879pt too wide) in paragraph at lines 978--985
+\TU/DejaVuSerif(1)/b/n/12 το μέγιστο φορτίο θα εμφανιζόταν περί το ηλιακό μεσημ
+έρι. \TU/DejaVuSerif(1)/m/n/12 Επειδή
+ []
+
+[24]
+Overfull \hbox (11.19397pt too wide) detected at line 1025
 \OML/cmm/m/it/12 SHGF[] \OT1/cmr/m/n/12 = 131\OML/cmm/m/it/12 ;  SHGF[] \OT1/cm
 r/m/n/12 = 190\OML/cmm/m/it/12 ;  SHGF[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 SHG
 F[] \OT1/cmr/m/n/12 = 527 []
  []
 
-[22] [23] [24]
-Overfull \hbox (64.7052pt too wide) in paragraph at lines 1108--1119
+[25] [26] [27]
+Overfull \hbox (64.7052pt too wide) in paragraph at lines 1202--1213
  [][] 
  []
 
 
-Overfull \hbox (64.6466pt too wide) in paragraph at lines 1126--1137
+Overfull \hbox (64.6466pt too wide) in paragraph at lines 1220--1231
  [][] 
  []
 
-[25]
-Overfull \hbox (88.13095pt too wide) in paragraph at lines 1157--1170
+[28]
+Overfull \hbox (88.13095pt too wide) in paragraph at lines 1251--1264
  [][] 
  []
 
 
-Overfull \hbox (1.95834pt too wide) in paragraph at lines 1174--1179
+Overfull \hbox (1.95834pt too wide) in paragraph at lines 1268--1273
 []\TU/DejaVuSerif(1)/m/n/12 Για λόγους πληρότητας της τεχνικής τεκμηρίωσης, το 
 συμπληρωμένο φύλλο
  []
 
-[26]
-Underfull \hbox (badness 10000) in paragraph at lines 1191--1191
+
+Underfull \hbox (badness 10000) in paragraph at lines 1285--1285
 []|\TU/DejaVuSerif(1)/b/n/12 Γεωγραφικό πλά-
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 1193--1193
+Underfull \hbox (badness 1178) in paragraph at lines 1287--1287
 []|\TU/DejaVuSerif(1)/b/n/12 Εξωτερικές συνθή-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1197--1197
+Underfull \hbox (badness 10000) in paragraph at lines 1291--1291
 []|\TU/DejaVuSerif(1)/b/n/12 Παραδοχές ανοιγ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1197--1198
+Underfull \hbox (badness 10000) in paragraph at lines 1291--1292
 []|\TU/DejaVuSerif(1)/m/n/12 Διπλός υαλοπίνακας, $\OML/cmm/m/it/12 SC \OT1/cmr/
 m/n/12 = 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 69$\TU/DejaVuSerif(1)/m/n/12 , $\OM
 L/cmm/m/it/12 U \OT1/cmr/m/n/12 =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1198--1198
+Underfull \hbox (badness 10000) in paragraph at lines 1292--1292
 []|\TU/DejaVuSerif(1)/b/n/12 Κοινή θερμοκρα-
  []
 
-[27] [28
+[29] [30] [31
 
-] [29
+] [32
 
 
 ]
-Overfull \hbox (27.64029pt too wide) in paragraph at lines 1301--1304
+Overfull \hbox (27.64029pt too wide) in paragraph at lines 1395--1398
 \TU/DejaVuSerif(1)/m/n/12 αισθητού φορτίου. Αυτό οφείλεται κυρίως στο σχετικά χ
 αμηλό $\OML/cmm/m/it/12 U \OT1/cmr/m/n/12 = 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 
 45 []$\TU/DejaVuSerif(1)/m/n/12 .
  []
 
-[30
+[33
 
-] [31] [32]
-LaTeX Info: Redefining \rmfamily on input line 1481.
-LaTeX Info: Redefining \sffamily on input line 1481.
-LaTeX Info: Redefining \ttfamily on input line 1481.
- [33] [34] (./Report_gia_klimatismo.aux)
+]
+LaTeX Info: Redefining \rmfamily on input line 1466.
+LaTeX Info: Redefining \sffamily on input line 1466.
+LaTeX Info: Redefining \ttfamily on input line 1466.
+ [34]
+LaTeX Info: Redefining \rmfamily on input line 1486.
+LaTeX Info: Redefining \sffamily on input line 1486.
+LaTeX Info: Redefining \ttfamily on input line 1486.
+LaTeX Info: Redefining \rmfamily on input line 1486.
+LaTeX Info: Redefining \sffamily on input line 1486.
+LaTeX Info: Redefining \ttfamily on input line 1486.
+
+Overfull \hbox (0.1608pt too wide) in paragraph at lines 1488--1491
+\TU/DejaVuSerif(1)/m/n/12 brise-soleil, στοιχεία υπερυψωμένης φύτευσης), η οποί
+α μπλοκάρει την
+ []
+
+
+Overfull \hbox (5.37505pt too wide) in paragraph at lines 1509--1517
+\TU/DejaVuSerif(1)/m/n/12 Για \TU/DejaVuSerif(1)/b/n/12 πλήρως σκιασμένα \TU/De
+jaVuSerif(1)/m/n/12 ανοίγματα, ο ASHRAE Handbook of Fundamentals
+ []
+
+[35]
+Overfull \hbox (1.2266pt too wide) in paragraph at lines 1560--1561
+ []\TU/DejaVuSerif(1)/b/n/12 Συγκριτική αποτίμηση των δύο επιλογών[] \TU/DejaVu
+Serif(1)/m/n/12 Από τα αποτελέσματα προ-
+ []
+
+[36] [37]
+LaTeX Info: Redefining \rmfamily on input line 1645.
+LaTeX Info: Redefining \sffamily on input line 1645.
+LaTeX Info: Redefining \ttfamily on input line 1645.
+
+Overfull \hbox (34.81635pt too wide) in paragraph at lines 1654--1655
+[]\TU/DejaVuSerif(1)/b/n/12 Περίπτωση (i): \TU/DejaVuSerif(1)/m/n/12 ελάχιστη α
+παιτούμενη παροχή νωπού αέρα κατά Τ.Ο.Τ.Ε.Ε.
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1664.
+LaTeX Info: Redefining \sffamily on input line 1664.
+LaTeX Info: Redefining \ttfamily on input line 1664.
+
+Overfull \hbox (2.42754pt too wide) in paragraph at lines 1663--1668
+\TU/DejaVuSerif(1)/m/n/12 θανόντων φορτίων. Τα δεδομένα της προηγούμενης ενότητ
+ας χρησιμοποιού-
+ []
+
+[38]
+Overfull \hbox (1.43066pt too wide) in paragraph at lines 1676--1677
+[]\TU/DejaVuSerif(1)/m/n/12 το σημείο $\OML/cmm/m/it/12 M$\TU/DejaVuSerif(1)/m/
+n/12 , που είναι το μίγμα νωπού και ανακυκλοφορούμενου αέρα, 
+ []
+
+[39]
+LaTeX Info: Redefining \rmfamily on input line 1760.
+LaTeX Info: Redefining \sffamily on input line 1760.
+LaTeX Info: Redefining \ttfamily on input line 1760.
+ [40] [41]
+Overfull \hbox (1.08574pt too wide) in paragraph at lines 1838--1848
+\TU/DejaVuSerif(1)/b/n/12 Μετάβαση από τα δεδομένα του υποερωτήματος β. \TU/Dej
+aVuSerif(1)/m/n/12 Στο υποερώτημα β
+ []
+
+[42]
+LaTeX Info: Redefining \rmfamily on input line 1916.
+LaTeX Info: Redefining \sffamily on input line 1916.
+LaTeX Info: Redefining \ttfamily on input line 1916.
+LaTeX Info: Redefining \rmfamily on input line 1919.
+LaTeX Info: Redefining \sffamily on input line 1919.
+LaTeX Info: Redefining \ttfamily on input line 1919.
+ [43]
+File: ../psychrometric_case_i.png Graphic file (type bmp)
+<../psychrometric_case_i.png>
+
+Overfull \hbox (2.72241pt too wide) in paragraph at lines 1968--1968
+ []|$[]$| 
+ []
+
+[44] [45]
+LaTeX Info: Redefining \rmfamily on input line 2039.
+LaTeX Info: Redefining \sffamily on input line 2039.
+LaTeX Info: Redefining \ttfamily on input line 2039.
+
+Overfull \hbox (1.8589pt too wide) in paragraph at lines 2056--2058
+[]\TU/DejaVuSerif(1)/m/n/12 Το χαμηλότερο $\OML/cmm/m/it/12 ADP$ \TU/DejaVuSeri
+f(1)/m/n/12 υποδηλώνει εντονότερη απαίτηση αφύγρανσης, η οποία
+ []
+
+File: ../psychrometric_case_ii.png Graphic file (type bmp)
+<../psychrometric_case_ii.png>
+[46]
+Overfull \hbox (19.42163pt too wide) in paragraph at lines 2091--2091
+ []|$[]$| 
+ []
+
+[47] [48]
+LaTeX Info: Redefining \rmfamily on input line 2186.
+LaTeX Info: Redefining \sffamily on input line 2186.
+LaTeX Info: Redefining \ttfamily on input line 2186.
+
+Overfull \hbox (4.68925pt too wide) in paragraph at lines 2191--2202
+\TU/DejaVuSerif(1)/m/n/12 ζει αποφασιστικά τη διαστασιολόγηση της συσκευής. Για
+ την Περίπτωση (i),
+ []
+
+[49] [50] (./Report_gia_klimatismo.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `Report_gia_klimatismo.out' has not changed.
-(rerunfilecheck)             Checksum: FFBB92EE6451C0D70D8CB2C8934260AD;18525.
+(rerunfilecheck)             Checksum: 8C21203CB5B9C22B9B18147529ED2DD5;28192.
  ) 
 Here is how much of TeX's memory you used:
- 15408 strings out of 476846
- 314472 string characters out of 5803824
+ 15435 strings out of 476846
+ 315326 string characters out of 5803824
  1958627 words of memory out of 5000000
- 37054 multiletter control sequences out of 15000+600000
- 565344 words of font info for 136 fonts, out of 8000000 for 9000
+ 37075 multiletter control sequences out of 15000+600000
+ 565368 words of font info for 139 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  79i,15n,117p,678b,508s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Report_gia_klimatismo.xdv (35 pages, 475784 bytes).
+Output written on Report_gia_klimatismo.xdv (51 pages, 742716 bytes).

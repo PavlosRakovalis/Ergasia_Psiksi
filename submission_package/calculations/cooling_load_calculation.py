@@ -12,6 +12,9 @@
 =================================================================
 """
 import csv
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
 
 # =============================================================
 # 1. ΔΕΔΟΜΕΝΑ ΣΧΕΔΙΑΣΜΟΥ
@@ -412,7 +415,7 @@ print(comments)
 # 7. ΕΞΑΓΩΓΗ ΑΠΟΤΕΛΕΣΜΑΤΩΝ ΣΕ CSV
 # =============================================================
 
-csv_path = "/workspaces/Ergasia_Psiksi/Αποτελεσματα_CLTD_Ερωτημα_β.csv"
+csv_path = BASE_DIR / "Αποτελεσματα_CLTD_Ερωτημα_β.csv"
 with open(csv_path, 'w', encoding='utf-8', newline='') as f:
     writer = csv.writer(f)
     writer.writerow(['Ώρα', 'To(°C)', 'Τοίχοι(W)', 'Οροφή(W)',
@@ -438,7 +441,7 @@ print(f"  Αποτελέσματα αποθηκεύτηκαν: {csv_path}")
 # 8. ΕΞΑΓΩΓΗ ΦΥΛΛΟΥ ΕΡΓΑΣΙΑΣ
 # =============================================================
 
-ws_path = "/workspaces/Ergasia_Psiksi/Φυλλο_εργασιας_CLTD (1)(Table 1) (1).csv"
+ws_path = BASE_DIR / "Φυλλο_εργασιας_CLTD (1)(Table 1) (1).csv"
 
 # Precompute all values per hour into a structured dict
 ws_data = {}

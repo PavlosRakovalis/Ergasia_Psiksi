@@ -17,9 +17,11 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
+from pathlib import Path
 
 psychrolib.SetUnitSystem(psychrolib.SI)
 P_ATM = 101325  # Pa
+PACKAGE_DIR = Path(__file__).resolve().parent.parent
 
 CASES = {
     'i': {
@@ -284,15 +286,15 @@ if __name__ == "__main__":
     print("Δημιουργία ψυχρομετρικών χαρτών για το Ερώτημα γ...")
 
     # Εστιασμένοι χάρτες (όπως πριν)
-    make_chart('i',  '/workspaces/Ergasia_Psiksi/psychrometric_case_i.png',
+    make_chart('i',  PACKAGE_DIR / 'psychrometric_case_i.png',
                full_range=False)
-    make_chart('ii', '/workspaces/Ergasia_Psiksi/psychrometric_case_ii.png',
+    make_chart('ii', PACKAGE_DIR / 'psychrometric_case_ii.png',
                full_range=False)
 
     # Χάρτες πλήρους εμβέλειας (0–55°C, 0–30 g/kg)
-    make_chart('i',  '/workspaces/Ergasia_Psiksi/psychrometric_case_i_full.png',
+    make_chart('i',  PACKAGE_DIR / 'psychrometric_case_i_full.png',
                full_range=True)
-    make_chart('ii', '/workspaces/Ergasia_Psiksi/psychrometric_case_ii_full.png',
+    make_chart('ii', PACKAGE_DIR / 'psychrometric_case_ii_full.png',
                full_range=True)
 
     print("Ολοκληρώθηκε.")

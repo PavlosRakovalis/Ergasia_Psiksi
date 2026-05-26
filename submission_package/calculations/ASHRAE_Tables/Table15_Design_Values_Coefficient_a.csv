@@ -1,0 +1,10 @@
+Table 15 - Design Values of Coefficient a (Features of Room Furnishings, Light Fixtures, and Ventilation Arrangements)
+Source: typologio_Klima.pdf (page 28)
+,
+a,Furnishings,Air_Supply_and_Return,Type_of_Light_Fixture
+0.45,"Heavyweight, simple furnishings, no carpet","Low rate; supply and return below ceiling (V < 2.5)","Recessed, not vented"
+0.55,"Ordinary furniture, no carpet","Medium to high ventilation rate; supply and return below ceiling or through ceiling grill and space (V > 2.5)","Recessed, not vented"
+0.65,"Ordinary furniture, with or without carpet","Medium to high ventilation rate or fan coil or induction type air-conditioning terminal unit; supply through ceiling or wall diffuser; return around light fixtures and through ceiling space (V > 2.5)",Vented
+"0.75 or greater",Any type of furniture,Ducted returns through light fixtures,"Vented or free-hanging in air stream with ducted returns"
+,
+"* V is room air supply rate in L/s per m^2 of floor area."
